@@ -12,6 +12,10 @@ export default function Home() {
         title="Social Links Profile Challenge"
         href="/social-links-profile"
       />
+      <ChallengeLink
+        title="Pixel Transition Effect"
+        href="/pixel-transition-effect"
+      />
     </main>
   );
 }
